@@ -11,3 +11,5 @@ to leave .venv, enter "deactivate"
 git add .
 git commit -m "..."
 git push origin main
+
+to get back to venv: .\venv\Scripts\Activate.ps1
